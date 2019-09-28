@@ -2,5 +2,6 @@ plugins:
   - jekyll-include-cache
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "air"
+search: true
 title: Your awesome title
 email: your-email@domain.com
