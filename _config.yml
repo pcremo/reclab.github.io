@@ -6,5 +6,3 @@ search: true
 search_full_content: true
 title: Your awesome title
 email: your-email@domain.com
-
-theme: jekyll-theme-minimal
