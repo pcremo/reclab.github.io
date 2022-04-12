@@ -1,10 +1,2 @@
-plugins:
-  - jekyll-include-cache
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "air"
-search: true
-search_full_content: true
-title: prova
-email: prova@prova
 
 theme: jekyll-theme-minimal
